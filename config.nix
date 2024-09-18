@@ -16,6 +16,8 @@
         kubectx
         k9s
         fluxcd
+        startship
+        tmux
       ];
     };
   };
